@@ -9,9 +9,9 @@ pig:
 
 spring:
   redis:
-    host: localhost
+    host: 122.112.219.254
     port: 6379
-    password: redis
+    password: 1234xxxxx
     
 logging:
   config: classpath:logback.xml
